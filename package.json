@@ -14,7 +14,7 @@
         "history": "^4.9.0",
         "lodash": "4.17.15",
 
-        "set-value": "3.0.1",
+        "set-value": "2.0.1",
         "mixin-deep": "2.0.1",
         "lodash-es": "4.17.15",
         
@@ -30,7 +30,7 @@
         "@babel/preset-react": "^7.0.0",
         "lodash": "4.17.15",
 
-        "set-value": "3.0.1",
+        "set-value": "2.0.1",
         "mixin-deep": "2.0.1",
         "lodash-es": "4.17.15",
         "babel-loader": "^8.0.5",
