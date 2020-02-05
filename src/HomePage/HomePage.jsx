@@ -46,9 +46,8 @@ class HomePage extends React.Component {
                
             <div>
                 <h1>Products</h1>
-                <div className="container">
-                    <div className="row"> 
-                        <div>
+                    <div class="card">
+
                                 {
 
                                 products.map((product, i) => {
@@ -61,10 +60,9 @@ class HomePage extends React.Component {
                                     )
                                 })
                             }
-                        </div>
                     </div>
-                </div>
             </div>
+                
         );
     }
 }
